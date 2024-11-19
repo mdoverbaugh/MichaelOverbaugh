@@ -1,1 +1,1 @@
-/MichaelOverbaugh.github.io
+MichaelOverbaugh.github.io
